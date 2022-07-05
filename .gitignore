@@ -1,2 +1,4 @@
 test/
 amd_venv/
+*.zip
+out/
